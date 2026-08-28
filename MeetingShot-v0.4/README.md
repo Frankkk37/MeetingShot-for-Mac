@@ -1,4 +1,4 @@
-# MeetingShot v0.3 — 方案二 MVP
+# MeetingShot-for-Mac v0.4 — 方案二 MVP
 
 这是用于验证“画面变化触发截图”核心逻辑的 macOS 测试版本。
 
